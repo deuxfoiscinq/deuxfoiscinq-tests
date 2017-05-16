@@ -1,4 +1,9 @@
 # Site navigation links
 
+- title: Les vignerons
+  url: /
 - title: pourquoi ?
   url: /pourquoi/
+- title: La vigne
+  url: #
+
