@@ -7,7 +7,12 @@
 		        {% else %}
 		        {% assign domain = site.url %}
 		    {% endif %}
-		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+		    {% if link.url == page.url %}
+			    {% assign active-item-class = ' class="current-menu-item"' %}
+		    {% else %}
+			    {% assign active-item-class = '' %}
+		    {% endif %}
+		    <li {{ active-item-class }}><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 		  {% endfor %}
 	    </ul>
 	</nav>
