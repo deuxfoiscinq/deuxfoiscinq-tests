@@ -5,7 +5,7 @@ locale: fr_CH
 description: "à la découverte des bons vins de suisse romande en flacon de 5 dl"
 logo: divers-images/site-logo.png
 search: false
-url: http://deuxfoiscinq.ch
+url: https://deuxfoiscinq.github.io/deuxfoiscinq-tests
 
 # Jekyll configuration
 
