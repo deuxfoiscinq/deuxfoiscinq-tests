@@ -8,5 +8,6 @@ image:
 ---
 
 {: .entry-title }
-# La vigne <br/> page en construction
+# La vigne
 
+{% include en-construction.liquid %}
