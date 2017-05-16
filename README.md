@@ -1,2 +1,3 @@
-# deuxfoiscinq-tests
-Site de test pour deuxfoiscinq.ch
+# deuxfoiscinq
+
+<http://deuxfoiscinq.ch/>
