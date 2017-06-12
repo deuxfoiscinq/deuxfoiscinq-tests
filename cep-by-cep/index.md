@@ -48,7 +48,7 @@ on prend la sonde et on prélève un peu du travail accompli
 
 [i2]: ../images/2017-00-10-vigne/hommerouge3.jpg
 
-premiers travaux dans le **charmus** mis à ma disposition par didier imhof ([cf blog du 10.01.2017](/blog/rivaz-cave-des-dolles/)) domaine des *dolles* à *saint-saphorin* au lieu dit “*les fosses*”
+premiers travaux dans le **charmus** mis à ma disposition par didier imhof ([cf blog du 10.01.2017](../blog/rivaz-cave-des-dolles/)) domaine des *dolles* à *saint-saphorin* au lieu dit “*les fosses*”
 didier pratique la taille en **guyot** (cela consiste à laisser un seul sarment qui sera au porte-fruit lors du palissage) et un peu en **gobelet** (échalas)
 il coupe les vieux sarmenta, j’enlève les bois, on nettoie les branches à fruits, on **palisse** pas facile de plier les bois faut faire attention à ne pas les casser lorsqu’on les attache sur le fil porteur avec une espèce d’agrafeuse-dérouleuse de ruban
 
