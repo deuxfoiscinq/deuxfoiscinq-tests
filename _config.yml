@@ -5,7 +5,7 @@ locale: fr_CH
 description: "à la découverte des bons vins de suisse romande en flacon de 5 dl"
 logo: divers-images/site-logo.png
 search: false
-url: https://deuxfoiscinq.github.io/deuxfoiscinq-tests
+url: http://deuxfoiscinq.ch
 
 # Jekyll configuration
 
@@ -39,5 +39,5 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: jissé
   avatar: divers-images/jisse.jpg
-  email: jc121270steiner@gmail.com
+  email: jisse@deuxfoiscinq.ch
   facebook: 2x5dl
