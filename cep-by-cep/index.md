@@ -29,7 +29,7 @@ tous les jours, il faut la visiter, l’osculter, la soigner, lui parler, la sur
 
 ### mercredi 8 février 2017
 
-[![][i1]][i1]
+[![fevrier][i1]][i1]
 
 [i1]: ../images/cep-by-cep/2017-02-08.jpg
 
@@ -44,7 +44,7 @@ on prend la sonde et on prélève un peu du travail accompli
 
 ### vendredi 10 février 2017
 
-[![][i2]][i2]
+[![hommerouge3][i2]][i2]
 
 [i2]: ../images/cep-by-cep/2017-02-10.jpg
 
@@ -54,7 +54,7 @@ il coupe les vieux sarments, j’enlève les bois, on nettoie les branches à fr
 
 ### mardi 11 avril 2017
 
-[![][i3]][i3]
+[![attachemai][i3]][i3]
 
 [i3]: ../images/cep-by-cep/2017-04-11.jpg
 
@@ -64,7 +64,7 @@ profitant de ces premiers jours de beaux il est décidé d’**épianer** la vig
 
 ### jeudi 20 avril 2017
 
-[![][i4]][i4]
+[![cagrimpe][i4]][i4]
 
 [i4]: ../images/cep-by-cep/2017-04-20.jpg
 
@@ -74,7 +74,7 @@ heureusement pas de dégâts du côté de *saint-saph*
 
 ### mercredi 3 mai 2017
 
-[![][i5]][i5]
+[![attache][i5]][i5]
 
 [i5]: ../images/cep-by-cep/2017-05-03.jpg
 
@@ -83,7 +83,7 @@ avec la sécheresse, la vigne a eu soif, elle n’est pas la seule d’ailleurs,
 
 ### lundi 15 mai 2017
 
-[![][i6]][i6]
+[![traitement1][i6]][i6]
 
 [i6]: ../images/cep-by-cep/2017-05-15.jpg
 
@@ -94,7 +94,7 @@ on attache les sarments qui ont poussé depuis la dernière fois
 
 ### mardi 22 mai 2017
 
-[![][i7]][i7]
+[![effeuille1][i7]][i7]
 
 [i7]: ../images/cep-by-cep/2017-05-22.jpg
 
@@ -103,7 +103,7 @@ la semaine prochaine il faudra rebioler, entretemps, place à l’atomiseur
 
 ### lundi 29 mai 2017
 
-[![][i8]][i8]
+[![travailleurs2][i8]][i8]
 
 [i8]: ../images/cep-by-cep/2017-05-29.jpg
 
@@ -114,7 +114,7 @@ le long des murs les fleurs du merlot ont éclos
 
 ### mardi 6 juin 2017
 
-[![][i9]][i9]
+[![rivaz2][i9]][i9]
 
 [i9]: ../images/cep-by-cep/2017-06-06.jpg
 
