@@ -12,7 +12,7 @@ image:
 
 ## mais… ils sont où ces vignerons ?
 
-une année sept jours ur sept
+une année sept jours sur sept
 et que je te coupe, et que je te laboure, et que je t’effeuille, et que je t’y parle, et que je te soigne, et que je te taille en gobelets ou en guyot
 elle aime bien se faire dorlotter et se laisser caresser par les doux rayons du soleil, mais il lui faut aussi un peu de pluie, mais pas trop
 la journée vous les ne voyez pas ils sont courbés dans leur vigne et disparaissent derrière les bois et les feuilles
