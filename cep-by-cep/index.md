@@ -31,7 +31,7 @@ tous les jours, il faut la visiter, l’osculter, la soigner, lui parler, la sur
 
 [![][i1]][i1]
 
-[i1]: ../images/2017-00-10-vigne/fevrier.jpg
+[i1]: ../images/cep-by-cep/2017-02-08.jpg
 
 tout est gris
 personne dans la rue
@@ -46,7 +46,7 @@ on prend la sonde et on prélève un peu du travail accompli
 
 [![][i2]][i2]
 
-[i2]: ../images/2017-00-10-vigne/hommerouge3.jpg
+[i2]: ../images/cep-by-cep/2017-02-10.jpg
 
 premiers travaux dans le **charmus** mis à ma disposition par didier imhof ([cf blog du 10.01.2017](../blog/rivaz-cave-des-dolles/)) domaine des *dolles* à *saint-saphorin* au lieu dit *les fosses*
 didier pratique la taille en **guyot** (cela consiste à laisser un seul sarment qui sera le porte-fruit lors du palissage) et un peu en **gobelet** (échalas)
@@ -56,9 +56,9 @@ il coupe les vieux sarments, j’enlève les bois, on nettoie les branches à fr
 
 [![][i3]][i3]
 
-[i3]: ../images/2017-00-10-vigne/attachemai.jpg
+[i3]: ../images/cep-by-cep/2017-04-11.jpg
 
-depuis ma dernière visite, la vigne n’est pas restée seule de nombreux travaux ont été accomplis par le vigneron : arracher les ceps morts, les remplacer par de jeunes pousses, désherber, renforcer les murs 
+depuis ma dernière visite, la vigne n’est pas restée seule de nombreux travaux ont été accomplis par le vigneron : arracher les ceps morts, les remplacer par de jeunes pousses, désherber, renforcer les murs
 la vigne a **pleuré** à fin mars, elle a de l’avance cette année (écoulement de la sève au bout des sarments coupés)
 profitant de ces premiers jours de beaux il est décidé d’**épianer** la vigne c’est-à-dire d’enlever des bourgeons sur la branche à fruits pour en laisser quatre et deux yeux sur le **courson** de réserve (on laisse deux petits bouts de sarments de l’an passé)
 
@@ -66,7 +66,7 @@ profitant de ces premiers jours de beaux il est décidé d’**épianer** la vig
 
 [![][i4]][i4]
 
-[i4]: ../images/2017-00-10-vigne/cagrimpe.jpg
+[i4]: ../images/cep-by-cep/2017-04-20.jpg
 
 le gel, inattendu, fait souffrir la vigne, surtout en valais et à genève où de nombreux vignerons ont perdu leur récolte
 heureusement pas de dégâts du côté de *saint-saph*
@@ -76,7 +76,7 @@ heureusement pas de dégâts du côté de *saint-saph*
 
 [![][i5]][i5]
 
-[i5]: ../images/2017-00-10-vigne/attache.jpg
+[i5]: ../images/cep-by-cep/2017-05-03.jpg
 
 on attache les jeunes sarments aux fils porteurs cette opération sera renouvellée dans quinze jours et suivie régulièrement tant que la vigne pousse
 avec la sécheresse, la vigne a eu soif, elle n’est pas la seule d’ailleurs, on a dû arroser principalement les jeunes pieds
@@ -85,7 +85,7 @@ avec la sécheresse, la vigne a eu soif, elle n’est pas la seule d’ailleurs,
 
 [![][i6]][i6]
 
-[i6]: ../images/2017-00-10-vigne/traitement1.jpg
+[i6]: ../images/cep-by-cep/2017-05-15.jpg
 
 tel une abeille, le vigneron va de cep en cep
 on entend le bourdonnement de la machine qui applique le traitement contre le **mildiou** et l’**oïdium** et avec une oreille attentive, on entend plusieurs abeilles mais on les voit pas
@@ -96,7 +96,7 @@ on attache les sarments qui ont poussé depuis la dernière fois
 
 [![][i7]][i7]
 
-[i7]: ../images/2017-00-10-vigne/effeuille1.jpg
+[i7]: ../images/cep-by-cep/2017-05-22.jpg
 
 on refait un tour pour attacher les sarments qui ont poussé depuis la semaine passée : impressionnant
 la semaine prochaine il faudra rebioler, entretemps, place à l’atomiseur
@@ -105,7 +105,7 @@ la semaine prochaine il faudra rebioler, entretemps, place à l’atomiseur
 
 [![][i8]][i8]
 
-[i8]: ../images/2017-00-10-vigne/travailleurs2.jpg
+[i8]: ../images/cep-by-cep/2017-05-29.jpg
 
 il est 7 heures le soleil est levé mais ne chauffe pas encore le vignoble de *saint-saph* aujourd’hui on reboile, c’est-à-dire qu’on enlève les rebiots
 bon, un rebiot est un bourgeon plus ou moins grand qui a poussé et s’est développé sur le sarment on enlève ceux-ci entre les grappes et le début du sarment
@@ -116,7 +116,7 @@ le long des murs les fleurs du merlot ont éclos
 
 [![][i9]][i9]
 
-[i9]: ../images/2017-00-10-vigne/rivaz2.jpg
+[i9]: ../images/cep-by-cep/2017-06-06.jpg
 
 après un week end de la pentecôte avec des orages et des rayons de soleil, nous revoilà au pied du charmus
 il faut rebioler et attacher les sarments qui ont poussé
