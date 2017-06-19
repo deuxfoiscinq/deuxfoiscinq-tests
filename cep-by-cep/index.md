@@ -27,7 +27,7 @@ tous les jours, il faut la visiter, l’osculter, la soigner, lui parler, la sur
 
 ## du grain au verre
 
-### mercredi 8 février 2017
+### [mercredi 8 février 2017](#mercredi-8-février-2017)
 
 [![fevrier][i1]][i1]
 
@@ -42,7 +42,7 @@ les tonneaux semblent heureux de nous voir
 on prend la sonde et on prélève un peu du travail accompli
 …et c’est là que l’on peut enfin savoir
 
-### vendredi 10 février 2017
+### [vendredi 10 février 2017](#vendredi-10-février-2017)
 
 [![hommerouge3][i2]][i2]
 
@@ -52,7 +52,7 @@ premiers travaux dans le **charmus** mis à ma disposition par didier imhof ([cf
 didier pratique la taille en **guyot** (cela consiste à laisser un seul sarment qui sera le porte-fruit lors du palissage) et un peu en **gobelet** (échalas)
 il coupe les vieux sarments, j’enlève les bois, on nettoie les branches à fruits, on **palisse** pas facile de plier les bois faut faire attention à ne pas les casser lorsqu’on les attache sur le fil porteur avec une espèce d’agrafeuse-dérouleuse de ruban
 
-### mardi 11 avril 2017
+### [mardi 11 avril 2017](#mardi-11-avril-2017)
 
 [![attachemai][i3]][i3]
 
@@ -62,7 +62,7 @@ depuis ma dernière visite, la vigne n’est pas restée seule de nombreux trava
 la vigne a **pleuré** à fin mars, elle a de l’avance cette année (écoulement de la sève au bout des sarments coupés)
 profitant de ces premiers jours de beaux il est décidé d’**épianer** la vigne c’est-à-dire d’enlever des bourgeons sur la branche à fruits pour en laisser quatre et deux yeux sur le **courson** de réserve (on laisse deux petits bouts de sarments de l’an passé)
 
-### jeudi 20 avril 2017
+### [jeudi 20 avril 2017](#jeudi-20-avril-2017)
 
 [![cagrimpe][i4]][i4]
 
@@ -72,7 +72,7 @@ le gel, inattendu, fait souffrir la vigne, surtout en valais et à genève où d
 heureusement pas de dégâts du côté de *saint-saph*
 à tous malheurs, il y a quelque chose de bon dit-on : le froid a freiné la croissance de la vigne un peu prématurée cette année
 
-### mercredi 3 mai 2017
+### [mercredi 3 mai 2017](#mercredi-3-mai-2017)
 
 [![attache][i5]][i5]
 
@@ -81,7 +81,7 @@ heureusement pas de dégâts du côté de *saint-saph*
 on attache les jeunes sarments aux fils porteurs cette opération sera renouvellée dans quinze jours et suivie régulièrement tant que la vigne pousse
 avec la sécheresse, la vigne a eu soif, elle n’est pas la seule d’ailleurs, on a dû arroser principalement les jeunes pieds
 
-### lundi 15 mai 2017
+### [lundi 15 mai 2017](#lundi-15-mai-2017)
 
 [![traitement1][i6]][i6]
 
@@ -92,7 +92,7 @@ on entend le bourdonnement de la machine qui applique le traitement contre le **
 les coteaux ont changé de manteau : du brun pour la pluie, ils ont mis le loden vert
 on attache les sarments qui ont poussé depuis la dernière fois
 
-### mardi 22 mai 2017
+### [mardi 22 mai 2017](#mardi-22-mai-2017)
 
 [![effeuille1][i7]][i7]
 
@@ -101,7 +101,7 @@ on attache les sarments qui ont poussé depuis la dernière fois
 on refait un tour pour attacher les sarments qui ont poussé depuis la semaine passée : impressionnant
 la semaine prochaine il faudra rebioler, entretemps, place à l’atomiseur
 
-### lundi 29 mai 2017
+### [lundi 29 mai 2017](#lundi-29-mai-2017)
 
 [![travailleurs2][i8]][i8]
 
@@ -112,7 +112,7 @@ bon, un rebiot est un bourgeon plus ou moins grand qui a poussé et s’est dév
 dure, dure… t’as le dos qui siffle
 le long des murs les fleurs du merlot ont éclos
 
-### mardi 6 juin 2017
+### [mardi 6 juin 2017](#mardi-6-juin-2017)
 
 [![rivaz2][i9]][i9]
 
