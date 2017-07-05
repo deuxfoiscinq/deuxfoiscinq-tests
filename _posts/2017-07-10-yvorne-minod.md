@@ -6,9 +6,9 @@ etiquette: /images/2017-07-10-dillet/etiquettedillet-545x958.jpg
 teaser: "...c’est pas en ville que tu vas rencontrer un gaillard comme lui"
 mots-cles: [Yvorne, Chablais, vigneron]
 categories: blog
-date:     2017-07-10T14:00:00+02:00
-modified: 2017-07-10T14:00:00+02:00
-published: false
+date:     2016-07-10T14:00:00+02:00
+modified: 2016-07-10T14:00:00+02:00
+published: true
 image:
   feature: /images/2017-07-10-dillet/dillet1900x800.jpg
   credit: jissé
