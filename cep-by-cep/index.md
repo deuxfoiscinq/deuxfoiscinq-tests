@@ -124,14 +124,15 @@ la vigne a depuis quelques temps retrouvé sa vigueur et son ardeur qui nous mot
 
 ### [mardi 4 juillet 2017](#mardi-4-juillet-2017)
 
-[![attache][i10]][i10]
+[![grappe][i11]][i10]
 
-[i10]: ../images/cep-by-cep/2017-07-04-attache.jpg
+[i10]: ../images/cep-by-cep/2017-07-04-grappe-01.jpg
+
 
 avec les sauts d’humeur de la météo des ces derniers jours les différents traitements sont difficiles à programmer ceux-ci demandant un temps sec durant deux ou trois jours
 mais la vigne adore ces écarts de température et surtout la pluie même orageuse lui a permis de s’épanouir
 on profite des passages entre les ceps pour attacher les sarments afin de les maintenir et de les diriger en hauteur pour faciliter le passage pour les prochaines visites
 
-[![grappe][i11]][i11]
+[![attache][i10]][i11]
 
-[i11]: ../images/cep-by-cep/2017-07-04-grappe-01.jpg
+[i11]: ../images/cep-by-cep/2017-07-04-attache.jpg
