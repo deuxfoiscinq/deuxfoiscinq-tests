@@ -6,8 +6,8 @@ etiquette: /images/2017-07-10-dillet/etiquettedillet-545x958.jpg
 teaser: "...c’est pas en ville que tu vas rencontrer un gaillard comme lui"
 mots-cles: [Yvorne, Chablais, vigneron]
 categories: blog
-date:     2016-07-10T14:00:00+02:00
-modified: 2016-07-10T14:00:00+02:00
+date:     2017-07-10T14:00:00+02:00
+modified: 2017-07-10T14:00:00+02:00
 published: true
 image:
   feature: /images/2017-07-10-dillet/dillet1900x800.jpg
@@ -23,7 +23,7 @@ image:
 
 ## le vigneron
 après un repas avec un ami vigneron alors qu’on pedzait et batoillait, le cuisinier maître des lieux nous rejoint et dans ces joutes oratoires, lâcha le nom d’eric minod, vigneron à yvorne
-trois jours plus tard et un « emil », je le rencontrais dans sa cave
+trois jours plus tard et un « emil », je le rencontrais dans sa cave
 c’est pas en ville que tu vas croiser un gaillard comme lui, comme *eric minod*
 il exploite le domaine familial avec son épouse et ses enfants
 simplement, il fait des vins pour lui, pour toi, pour le plaisir, savoureux qui plaisent au palais et qui remplace bien le lait
@@ -55,7 +55,7 @@ un grand vin, rond, plaisant et un rien enchanteur qui t’oblige vite à faire 
 > Éric Minod
 > Les Renauds 1
 > 1853 Yvorne
-> 024  466 53 89 – 079 329 65 78 - info@yvornedillet.ch- www.yvornedillet.ch
+> 024  466 53 89 – 079 329 65 78 - [info@yvornedillet.ch](mailto:info@yvornedillet.ch) - [www.yvornedillet.ch](http://www.yvornedillet.ch)
 
 ## y aller
 quand tu vas de *villeneuve* à *aigle*, tout à coup sur ta gauche, au pied de la montagne il y a un magnifique village entouré de vignobles

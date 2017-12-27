@@ -7,7 +7,8 @@ teaser: "...ben lui, *pierre-yves poget* a gagné : son merlot 2015 a reçu la 
 mots-cles: [Côtes de l’Orbe, Agiez, vigneron]
 categories: blog
 date:     2017-06-10T14:00:00+02:00
-modified: 2017-06-10T14:00:00+02:00
+modified: 2017-08-10T14:00:00+02:00
+notif-modifs: true
 published: true
 image:
   feature: /images/2017-06-10-poget/distinctions-1900x800.jpg
@@ -34,23 +35,25 @@ acidité et maturité font ici bon ménage et donnent une élégance à ce vin q
 
 ### pinot noir 2016
 un vrai pinot vaudois, équilibré et très sympa
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*mondial du pinot noir 2017 médaille d’or*</span>
 
 ### gamaret – garanoir 2015
 la surprise de cette première dégustation
 quelle saveur et quelle envie de prolonger la dégustation
+<span {% if page.notif-modifs %}class="notif-modifs"{% endif %}>*diplôme millésime d’argent 2017*</span>
 
 ## découvrir
 bien entendu son *merlot barrique 2015* (seulement en 70 cl)
 ses vins d’appellation *côtes de l’orbe* te surprendront et t’enchanteront par leur élégance, leur équilibre et leur saveur
 il est intéressant de noter ici (et c’est le professeur ès raisins qui t’en verse une) que les *côtes de l’orbe* sont une des régions vinicoles les plus séches du canton
 
-## qui ?
+## qui ?
 > Pierre-Yves Poget
 > Vigneron-encaveur
 > Cave Mirabilis
 > Route de Bretonnières 16A
 > 1352 Agiez
-> 024 441 43 21 – 079 320 85 09 – pypoget@vins-poget.ch – [www.vins-poget.ch](http://www.vins-poget.ch/)
+> 024 441 43 21 – 079 320 85 09 – [pypoget@vins-poget.ch](mailto:pypoget@vins-poget.ch) – [www.vins-poget.ch](http://www.vins-poget.ch/)
 
 ## y aller
 sur l’autoroute qui te mène de *lausanne* à *yverdon-les-bains*, tu sors à *chavornay* et prends la direction d’*orbe* par la route cantonale
