@@ -241,7 +241,15 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 
 .notif-modifs {
   color: firebrick;
+  font-size: 60%;
+  position: relative;
+  bottom: 10px;
+  right: 4px;
+  & .c-inherit {
+    color: inherit;
+  }
 }
+
 
 .entry-date {
   text-align: right;
